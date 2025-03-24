@@ -38,3 +38,40 @@ This project is an invoice data extraction prototype written in PHP. It uses **T
   "currency" => "EUR",
   "items" => [ ... ]
 ]
+```
+
+## 🎥 Demo
+
+🔗 Video: https://jam.dev/c/3fe4a708-bb90-4dd6-812c-40de6c8267e9
+🔗 Test URL (archived)
+
+## ⚠️ Freelancer.com Arbitration Warning
+
+This project was originally commissioned via Freelancer.com. Despite fully delivering:
+
+- A working solution
+- A 10-minute demo video parsing 30+ invoices
+- Structured output in array format
+- Debug JSON only for frontend/testing
+- 90%+ accuracy, as confirmed by the client's own message
+
+Freelancer's arbitration refunded **100% of the milestone** without evaluating the evidence. They sided with the client based solely on their rejection, **ignoring the video, working code, and functionality.**
+
+📎 You can view the arbitration summary and context here: [Insert link or issue]
+
+## 📌 Important
+
+This repository is preserved as technical evidence and for future developers working on OCR + LLM-based document understanding. The logic can be easily extracted into a function or class for integration.
+
+## 📄 License
+
+MIT — Feel free to use or adapt this project. Attribution is appreciated.
+
+---
+
+### 🙋‍♂️ Author
+
+**Randall V. Li**  
+Top-Rated Plus Freelancer | Software Engineer  
+📧 xxx
+🌐 www.linkedin.com/in/ranvli
