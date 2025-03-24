@@ -43,7 +43,7 @@ This project is an invoice data extraction prototype written in PHP. It uses **T
 ## 🎥 Demo
 
 🔗 Video: https://jam.dev/c/3fe4a708-bb90-4dd6-812c-40de6c8267e9
-🔗 Test URL (archived)
+🔗 Test URL: link-removed
 
 ## ⚠️ Freelancer.com Arbitration Warning
 
@@ -57,7 +57,7 @@ This project was originally commissioned via Freelancer.com. Despite fully deliv
 
 Freelancer's arbitration refunded **100% of the milestone** without evaluating the evidence. They sided with the client based solely on their rejection, **ignoring the video, working code, and functionality.**
 
-📎 You can view the arbitration summary and context here: [Insert link or issue]
+📎 You can view the arbitration summary and context here: link-removed
 
 ## 📌 Important
 
@@ -73,5 +73,5 @@ MIT — Feel free to use or adapt this project. Attribution is appreciated.
 
 **Randall V. Li**  
 Top-Rated Plus Freelancer | Software Engineer  
-📧 xxx
+📧 email-removed
 🌐 www.linkedin.com/in/ranvli
